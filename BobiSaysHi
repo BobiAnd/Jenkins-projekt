@@ -1,5 +1,5 @@
 public Class BobiSaysHi {
 public static void main(String [] args) {
 
-System.out.println("Heluuuu på dig du ")
+System.out.println("Heluuuu på dig du ");
 }
